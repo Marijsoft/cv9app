@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/08 20:37:41.000.689,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/08 20:38:14.000.027,C:\Users\marij\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\marij\Documents\Embarcadero\Studio\Projects\CV9Info.dproj</Transaction>
+    <Transaction>2020/03/08 20:38:14.000.103,C:\Users\marij\Documents\Embarcadero\Studio\Projects\CV9Info.dproj=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/03/08 20:38:26.000.830,C:\Users\marij\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\marij\Documents\Embarcadero\Studio\Projects\CoronaVInfo.dproj</Transaction>
+    <Transaction>2020/03/08 21:05:49.000.533,C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\marij\Desktop\cv9\Unit1.pas</Transaction>
+    <Transaction>2020/03/08 21:05:49.000.533,C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\marij\Desktop\cv9\Unit1.fmx</Transaction>
+    <Transaction>2020/03/09 01:32:04.000.024,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/03/09 01:32:48.000.463,C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\marij\Desktop\cv9\Unit2.pas</Transaction>
+    <Transaction>2020/03/09 01:32:48.000.463,C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\marij\Desktop\cv9\Unit2.dfm</Transaction>
+    <Transaction>2020/03/09 01:32:51.000.383,C:\Users\marij\Documents\Embarcadero\Studio\Projects\CoronaVInfo.dproj=C:\Users\marij\Desktop\cv9\CoronaVInfo.dproj</Transaction>
+    <Transaction>2020/03/10 18:28:11.000.290,=C:\Users\marij\Desktop\cv9\testi\cv9.txt</Transaction>
+    <Transaction>2020/03/10 18:28:11.000.400,=C:\Users\marij\Desktop\cv9\testi\sintomi.txt</Transaction>
+    <Transaction>2020/03/10 18:28:11.000.380,=C:\Users\marij\Desktop\cv9\testi\rimborsi.txt</Transaction>
+    <Transaction>2020/03/10 18:28:11.000.330,=C:\Users\marij\Desktop\cv9\testi\prevenzioni.txt</Transaction>
+    <Transaction>2020/03/10 18:28:11.000.310,=C:\Users\marij\Desktop\cv9\testi\decreto.txt</Transaction>
+    <Transaction>2020/03/10 18:28:11.000.270,=C:\Users\marij\Desktop\cv9\testi\amuchina.txt</Transaction>
+    <Transaction>2020/03/10 18:28:11.000.350,=C:\Users\marij\Desktop\cv9\testi\protezioni.txt</Transaction>
+    <Transaction>2020/03/10 18:28:11.000.435,=C:\Users\marij\Desktop\cv9\testi\trasmissione.txt</Transaction>
+    <Transaction>2020/03/12 14:22:17.000.614,C:\Users\marij\Desktop\cv9\Unit2.pas=</Transaction>
+    <Transaction>2020/03/14 15:38:50.000.300,=C:\rio\Printing Library for Android\Library\PrintingAdapters.jar</Transaction>
+    <Transaction>2020/03/14 15:41:33.000.360,=C:\Users\marij\Downloads\modulo.pdf</Transaction>
+    <Transaction>2020/03/15 04:10:55.000.772,=C:\Users\marij\AppData\Local\Temp\autoc.pdf</Transaction>
+    <Transaction>2020/03/15 04:31:47.000.630,C:\Users\marij\AppData\Local\Temp\autoc.pdf=</Transaction>
+    <Transaction>2020/03/15 04:31:58.000.680,=C:\Users\marij\Documents\autoc.pdf</Transaction>
+    <Transaction>2020/03/15 05:40:27.000.467,=C:\Users\marij\Desktop\cv9\uPdfPrint.pas</Transaction>
+    <Transaction>2020/03/15 05:43:30.000.483,C:\Users\marij\Desktop\cv9\uPdfPrint.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<Pmojave iOSSimulator="iPhone5"/>
+		<NoProfile Android64="" Android=""/>
+	</ActiveMobileDevice>
+	<BT_BuildType>Adhoc</BT_BuildType>
+</BorlandProject>
